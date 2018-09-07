@@ -7,8 +7,8 @@ This topic provides you with a quick overview of the different areas of function
 
 ---
 ## Navigation
-![Pelion Home Page](/images/Annotated IoT-X Home Page.png)
 The following screenshot displays the Pelion **Home Page** and highlights the key features that can be used to navigate the platform.
+![Pelion Home Page](/images/Annotated IoT-X Home Page.png)
 
 |Number|Description|
 | -----|-----------|
