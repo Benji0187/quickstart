@@ -8,7 +8,7 @@ This section explains how to:
 
 The following screenshot displays the Pelion **Log In** screen.
 
-![Log In Screen](/images/Blank Log In Page.PNG)
+![Log In Screen](/images/Blank_Log_In_Page.png)
 
 To log in to Pelion:
 1. Open a web-browser and navigate to the Pelion URL:
