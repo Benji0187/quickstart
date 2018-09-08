@@ -2,7 +2,6 @@
 This section explains how to:
 * Log in.
 * Reset your password.
----
 
 ## Logging In
 
@@ -17,8 +16,6 @@ https://stream.iot-x.com
 3. Click on the **Next** button.
 4. Enter your password in the **Password** text box.
 5. Click on the **Sign In** button.
-
----
 
 ## Resetting Your Password
 

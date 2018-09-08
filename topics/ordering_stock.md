@@ -9,8 +9,6 @@ After signing in to the platform, one of the first things you may want to do is 
 
 > **Tip**: Contact your Account Manager if you would like to set up new tariff agreements.
 
----
-
 ## How to Place an Order
 You order stock for your account from the **Inventory>Order Stock** page.
 
@@ -39,4 +37,4 @@ To order stock:
     * If the delivery address matches the account billing address, click on the **Use Account Billing Address** button to automatically populate the address form.
     * If the delivery address differs from the account billing address, complete the delivery address form.
 8. Click on the **Complete Order** button to complete the order.
-9. Once the order has been submitted you will receive an email confirming the request has been received and is being processed. Note that the email is sent to the address that is associated with your user account. 
+9. Once the order has been submitted you will receive an email confirming the request has been received and is being processed. Note that the email is sent to the address that is associated with your user account.

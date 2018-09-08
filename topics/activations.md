@@ -1,8 +1,7 @@
 # Activations
 You can activate subscribers using Pelion. You can activate subscribers using the **Inventory** or **Activate** section. This topic explains how to use the **Activate** section.
 
->**Info**: Documentation about activating subscriber using the **Inventory** section is available in the [User Guide](https://help.iot-x.com/userguide/inventory-management/inventory-management-user-actions/activating-devices-from-the-inventory-page).
----
+>**Info**: Documentation about activating subscribers using the **Inventory** section is available in the [User Guide](https://help.iot-x.com/userguide/inventory-management/inventory-management-user-actions/activating-devices-from-the-inventory-page).
 
 ## Overview
 Activating subscribers involves the following steps:
@@ -10,8 +9,6 @@ Activating subscribers involves the following steps:
 2. Configuring subscribers for activation.
 
 >**Tip**: In certain cases activation requests can take between twenty-four and forty-eight hours to be processed by the network operator. It is recommended that activations are conducted ahead of time.
-
----
 
 ## Copying Subscriber Information
 >**Note**: Up to 2,500 subscribers can be activated at once.
@@ -23,8 +20,6 @@ To copy subscriber information into the platform:
     >**Tip**: It is not mandatory to add tags and nicknames when performing activations, however, they may help you to organise your subscribers. Refer to the [FAQs](https://help.iot-x.com/faqs/device-management/how-can-i-organise-devices) for further information about nicknames and tags.
 
 3. Click on the **Continue** button to start configuring your subscribers for activation.
-
----
 
 ## Configuring Subscribers for Activation
 Subscribers are configured for activation using the **Configure your devices** panel.

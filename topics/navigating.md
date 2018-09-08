@@ -5,7 +5,6 @@ You can return to the **Home Page** at any time by clicking on the Pelion logo i
 
 This topic provides you with a quick overview of the different areas of functionality available in Pelion.
 
----
 ## Navigation
 The following screenshot displays the Pelion **Home Page** and highlights the key features that can be used to navigate the platform.
 ![Pelion Home Page](/images/Annotated IoT-X Home Page.png)
